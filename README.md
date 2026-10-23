@@ -46,7 +46,7 @@ A hands-on lab covering one full Mobile Device Management (MDM) lifecycle in **M
 
 - Microsoft 365 tenant setup, trials and licensing (Intune Plan 1, Entra ID P1/P2, M365 E3/E5, Business Premium)
 - Entra ID users, assigned and dynamic device groups, device join settings, sign-in logs
-- Entra join vs registration, automatic MDM enrollment, Autopilot concepts
+- Entra join vs registration, automatic MDM enrollment, Windows Autopilot (concepts; hands-on planned)
 - Compliance policies, noncompliance actions, compliance reporting
 - Settings catalog profiles, silent BitLocker with Entra key escrow, security baselines, conflict resolution
 - Conditional Access: replacing security defaults, MFA, require compliant device, Report-only testing
